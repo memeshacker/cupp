@@ -14,7 +14,7 @@ Quick start
     $ pkg upgrade -y
     $ pkg i git -y
     $ pkg i python
-    $ pkg i python2
+    $ pkg i python2 python3
     $ git clone https://github.com/memeshacker/cupp.git
     $ cd cupp
     $ chmod +x *
