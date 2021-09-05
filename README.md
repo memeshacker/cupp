@@ -6,7 +6,7 @@
 Requirements
 ------------
 
-You need Python 3 to run CUPP.
+You need Python3 to run CUPP.
 
 Quick start
 -----------
@@ -14,7 +14,7 @@ Quick start
     $ pkg upgrade -y
     $ pkg i git -y
     $ pkg i python
-    $ pkg i python2 && python3
+    $ pkg i python2 && pkg i python3
     $ git clone https://github.com/memeshacker/cupp.git
     $ cd cupp
     $ chmod +x *
